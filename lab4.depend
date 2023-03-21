@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1679405846 source:c:\users\pc 21\desktop\todelete\asd\lab4\liste.c
+	"liste.h"
+
+1679405467 c:\users\pc 21\desktop\todelete\asd\lab4\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1679405846 source:c:\users\pc 21\desktop\todelete\asd\lab4\main.c
+	"liste.h"
+
